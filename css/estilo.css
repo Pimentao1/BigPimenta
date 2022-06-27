@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 600px;
+    height: 250;
+    margin: 0px auto;
+}
+
+header img {
+    width: 60px;
+    height: 60px;
+}
+
+header h3 {
+
+    margin-right: 50px;
+}
+
+header a {
+    text-decoration: none;
+
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    margin: 20px auto;
+}
+
+footer {
+    background-color: white;
+    width: 600px;
+    margin: 0px auto;
+    margin-top: 20px;
+}
